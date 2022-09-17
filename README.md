@@ -31,7 +31,16 @@ Saved it to my working directory
 
 ### Data entry, cleaning, and preparation
  
- The WhatsApp text file was imported into Microsoft PowerBI and transformed using power query
+ The WhatsApp text file was imported into Microsoft PowerBI and transformed using power query.
+ Link to the powerquery script 
+ 
+ 
+![image](https://user-images.githubusercontent.com/109418747/190860476-144dbb50-8c68-4029-b4d9-db9f98eb93fa.png)
+
+
+![image](https://user-images.githubusercontent.com/109418747/190861021-d5ffb4d0-5b03-44a9-9159-1b06621f1712.png)
+
+
  
 
 
