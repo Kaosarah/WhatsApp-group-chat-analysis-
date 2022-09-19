@@ -15,26 +15,25 @@ Messages sent for each day and various time range.
 
 ### Data Extraction
 
-Open WhatsApp
+ - Open WhatsApp
 
-Open the particular group(Young data professionals) 
+ - Open the particular group(Young data professionals) 
 
-Click on the hamburger icon (menu icon usually 3 dots) at the top right
+ - Click on the hamburger icon (menu icon usually 3 dots) at the top right
 
-Click on more
+ - Click on more
 
-Click export chat (you decide to include media or not) — for this analysis, I did not include media
+ - Click export chat (you decide to include media or not) — for this analysis, I did not include media
 
-Export as text file
+ - Export as text file
 
-Saved it to my working directory
+ - Saved it to my working directory
 
 ### Data entry, cleaning, and preparation
  
  The WhatsApp text file was imported into Microsoft PowerBI and transformed using power query.
- Link to the powerquery script
- 
- https://github.com/Kaosarah/WhatsApp-group-chat-analysis-/blob/main/Clean%20dataset
+ Click [here](
+ https://github.com/Kaosarah/WhatsApp-group-chat-analysis-/blob/main/Clean%20dataset) for the powerquery script
  
  
  **Dataset before cleaning**
@@ -85,5 +84,5 @@ Saved it to my working directory
  
 From my findings working with this data, I realized the group's activities are mostly centered around acheivements, learning about data related skills and soft skills, celebrating people's day, keeping records of group progress and lastly my group members love giveaway.
       
-Link to the interactive dashboard 
-https://www.novypro.com/project/ydp-whatsapp-group-analysis
+Click [here](https://www.novypro.com/project/ydp-whatsapp-group-analysis) for the interactive dashboard 
+
